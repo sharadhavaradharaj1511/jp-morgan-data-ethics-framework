@@ -26,4 +26,4 @@ Developed a data ethics framework for JP Morgan Chase to evaluate responsible da
 Conducted ethics and compliance analysis, evaluated governance principles, assessed stakeholder impact, and developed ethical data management recommendations.
 
 ## Project File
-View the uploaded project report in this repository.
+📄 [Open Project Report PDF](https://raw.githubusercontent.com/sharadhavaradharaj1511/jp-morgan-data-ethics-framework/main/JP_Morgan_Data_Ethics_Framework.pdf)
